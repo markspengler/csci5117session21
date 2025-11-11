@@ -19,4 +19,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SESSION21_707A6 }}
           channelId: live
           projectId: session21-707a6
-          repoDirectory: session21
+          entryPoint: session21
